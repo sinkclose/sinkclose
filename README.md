@@ -1,5 +1,3 @@
 
 ### poosay
-[![sinkclose's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinkclose)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinkclose&layout=compact)
+[![sinkclose's GitHub stats](https://github-stats-extended.vercel.app/api?username=sinkclose)](https://github.com/stats-organization/github-stats-extended)
